@@ -1,4 +1,4 @@
-exlintrc.json
+eslintrc.json
 prettierrc.json
 package.json
 yarn-lock
