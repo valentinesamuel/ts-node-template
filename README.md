@@ -3,7 +3,7 @@
 delete the .git folder and use your repo url
 
 
-## Run the followinglcommands
+## Run the following commands
 - npm init -y
 - npm i -D typescript ts-node
 - npx tsc --init
