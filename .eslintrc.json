@@ -20,7 +20,6 @@
 	],
 	"rules": {
 		"@typescript-eslint/restrict-template-expressions": "off",
-		// End of personal rules
 		"@typescript-eslint/consistent-type-definitions": "warn",
 		"@typescript-eslint/consistent-type-exports": "warn",
 		"@typescript-eslint/explicit-function-return-type": "warn",
@@ -37,6 +36,5 @@
 		"no-tabs": "off",
 		"@typescript-eslint/indent": "off",
 		"@typescript-eslint/semi": "off"
-		// End of personal rules
 	}
 }
